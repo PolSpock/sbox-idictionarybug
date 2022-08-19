@@ -48,11 +48,11 @@ partial class Pawn : AnimatedEntity
 
 		if (IsClient)
 		{
-			foreach ( var kv in Game.Instance.Test.EnumsAndDatas )
-			{
-				Log.Info( kv.Key );
-				Log.Info( kv.Value );
-			}
+			//foreach ( var kv in Game.Instance.Test.EnumsAndDatas )
+			//{
+			//	Log.Info( kv.Key );
+			//	Log.Info( kv.Value );
+			//}
 		}
 	}
 
