@@ -17,8 +17,8 @@
   "libraries": {
     "base/1.0.0": {
       "type": "project",
-      "path": "D:\\Program Files (x86)\\Steam\\steamapps\\common\\sbox\\addons\\base\\code\\base.csproj",
-      "msbuildProject": "D:\\Program Files (x86)\\Steam\\steamapps\\common\\sbox\\addons\\base\\code\\base.csproj"
+      "path": "../../base/code/base.csproj",
+      "msbuildProject": "../../base/code/base.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Paul\\Documents\\S&box Projects\\idictionarybug\\code\\idictionarybug.csproj",
+      "projectUniqueName": "D:\\Program Files (x86)\\Steam\\steamapps\\common\\sbox\\addons\\sbox-idictionarybug\\code\\idictionarybug.csproj",
       "projectName": "idictionarybug",
-      "projectPath": "C:\\Users\\Paul\\Documents\\S&box Projects\\idictionarybug\\code\\idictionarybug.csproj",
+      "projectPath": "D:\\Program Files (x86)\\Steam\\steamapps\\common\\sbox\\addons\\sbox-idictionarybug\\code\\idictionarybug.csproj",
       "packagesPath": "C:\\Users\\Paul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Paul\\Documents\\S&box Projects\\idictionarybug\\code\\obj\\",
+      "outputPath": "D:\\Program Files (x86)\\Steam\\steamapps\\common\\sbox\\addons\\sbox-idictionarybug\\code\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

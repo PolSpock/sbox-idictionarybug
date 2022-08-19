@@ -1,4 +1,4 @@
-﻿using IDictionaryBug.thebuggyfolder;
+﻿using IDictionaryBug;
 using Sandbox;
 using System.Collections.Generic;
 

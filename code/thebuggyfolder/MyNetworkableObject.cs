@@ -1,10 +1,6 @@
 ﻿using Sandbox;
 
-// BUGGED
-namespace IDictionaryBug.thebuggyfolder
-
-// WORK
-//namespace IDictionaryBug
+namespace IDictionaryBug
 {
 	public partial class MyNetworkableObject : BaseNetworkable
 	{
