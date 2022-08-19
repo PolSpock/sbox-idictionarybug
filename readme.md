@@ -1,5 +1,5 @@
-This branch is for the issue #https://github.com/Facepunch/sbox-issues/issues/2194
+This branch is for the issue https://github.com/Facepunch/sbox-issues/issues/2194
 
-This repository show a bug fired on hotreload :
+This repository show a bug fired on Change property :
 
-If you have a IDictionary with a custom value based on BaseNetworkable, the dictonary will be empty after hotreload
+If you have a IDictionary with a custom value based on BaseNetworkable, the Change property will never be triggered on Dictionary change
